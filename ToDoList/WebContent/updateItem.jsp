@@ -13,18 +13,6 @@
 
 <body>
 
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <ul class="nav navbar-nav">
-        <ul class="dropdown-menu">
-        </ul>
-    </ul>
-    <ul class="nav navbar-nav navbar-right">
-      <li><a href="/ToDoList/ToDoListController/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
-    </ul>
-  </div>
-</nav>
-
 <div class="container">
 <h2>update item</h2>
 

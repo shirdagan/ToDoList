@@ -24,3 +24,5 @@ public class RestfulController
 	}
 }
 
+/*<li> <action="ToDoListController" method="post"> <input type="hidden" name="command" value="logout">
+<span class="glyphicon glyphicon-log-out"> </span> Logout</a></li>*/

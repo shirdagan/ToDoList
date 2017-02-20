@@ -24,8 +24,6 @@
     
     <ul class="nav navbar-nav navbar-right">
       <li><a href="updatePassword.jsp"><span class="glyphicon glyphicon-user"></span> privacy</a></li>
-      <li> <action="ToDoListController" method="post"> <input type="hidden" name="command" value="logout">
-      <span class="glyphicon glyphicon-log-out"> </span> Logout</a></li>
     </ul>
     
   </div>
